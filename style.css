@@ -1,7 +1,5 @@
 
 html {
-  color: white;
-  background: #00b3e6;
 }
 
 
@@ -17,7 +15,6 @@ div {
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
-  background: #00b3e6;
 
 }
 
