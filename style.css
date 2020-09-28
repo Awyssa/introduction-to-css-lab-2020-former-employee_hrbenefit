@@ -11,7 +11,8 @@ div {
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
-  color:blue;
+  color:white;
+  background: black;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
